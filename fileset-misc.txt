@@ -1,11 +1,3 @@
-README
-NEWS
-COPYING
-THANKS
-build.xml
-build.properties
-fileset-src.txt
-fileset-misc.txt
-.gitignore
-maven/README
-maven/pom_template.xml
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fcc61e403776fefa6001efaf4a8e5b39305cc1afcfa245162d6e4711fa11a0c
+size 134

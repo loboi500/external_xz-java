@@ -1,19 +1,3 @@
-name: "XZ for Java"
-description: "This aims to be a complete implementation of XZ data compression in pure Java. Single-threaded streamed compression and decompression and random access decompression have been fully implemented. Threading is planned but it is unknown when it will be implemented."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://tukaani.org/xz/java.html"
-  }
-  url {
-    type: GIT
-    value: "https://git.tukaani.org/xz-java.git"
-  }
-  version: "v1.8"
-  license_type: UNENCUMBERED
-  last_upgrade_date {
-    year: 2019
-    month: 1
-    day: 18
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e150b2c381a47d12aab86d181b6ef154dc6bce3a78416c54839e3db2267e9ee
+size 579

@@ -1,2 +1,3 @@
-The pom_template.xml is for a Maven repository but it's not meant
-for building the project. Note that build.xml will replace @foo@ tags.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0342481ec5402e04f12eeb937047f1af18a46e7e5c6051c8db8ec66f11e185a0
+size 137
